@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>sky.png</file>
+        <file>earth.png</file>
+        <file>sat-2.png</file>
+    </qresource>
+</RCC>
